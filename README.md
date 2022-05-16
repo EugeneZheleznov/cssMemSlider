@@ -1,0 +1,1 @@
+https://eugenezheleznov.github.io/cssMemSlider/cssMemSlider/index.html
